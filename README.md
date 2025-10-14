@@ -1,46 +1,33 @@
-<!--- # llm-workshop-2024 ---> 
+<!--- # llm-workshop-2025 ---> 
 <!--- img style='height: 100%; width: 100%; object-fit: contain' src="thornton-hall.jpeg"/ --->
-
-## 10/20/24: we had a great workshop - thanks everyone! 
-
-We had more than 160 registered participants from seven departments in UVA engineering and five other schools/colleges of UVA.
-It was informative and fun. 
-
-<p align="center">
-  <img style='height: 100%; width: 100%; object-fit: contain' src="photo_collage_3x3.jpg"/>
-</p>
 
 ## How to Participate
 
-
-The workshop registration is open to anyone who is interested in LLM research and applications. Please register by **October 13**.
-
-[Registration Link](https://forms.gle/YDu7xEGx8cCDYNp39)
+The workshop registration is open to anyone in UVA who is interested in LLM research and applications. Please stay tuned for more information about participation. 
 
 
-~~There are different ways to participate in this workshop, please check out the [Call for Participation](calls.md) if you are interested!~~ (The submission portal is closed.)
+<!-- Please register by **TBD**.
 
+[Registration Link](TBD)
 
-## [Schedule](./schedule.md)
+There are different ways to participate in this workshop, please check out the [Call for Participation](calls.md) if you are interested! -->
 
-### Tutorial on LLM resources at UVA
-
-[Video](https://virginia.app.box.com/s/aajvi9wd17oiejiaz0ba8ln85x6j839a)   (UVA login required)
+<!-- ## [Schedule](./schedule.md)
 
 ## [Keynotes](./keynotes.md)
 
-## [Lightning talks and posters](./instructions.md)
+## [Lightning talks and posters](./instructions.md) -->
 
 ## Goals
 
-Large language models (LLMs) are advanced AI systems that excel in comprehending and generating human language. They utilize deep learning techniques to achieve unprecedented scale and complexity in language processing. One prominent example of LLM is ChatGPT, and they find application in intelligent educational tools, offering personalized tutoring and answering questions across various subjects. Moreover, LLMs have potential applications in scientific research by summarizing scientific discovery, extracting key information, and even deriving research plans. These capabilities can be extended to assist engineering researchers and educators in their domains.
+Large language models (LLMs) are advanced AI systems that excel in comprehending and generating human languages and programming languages. They utilize deep learning techniques to achieve unprecedented scale and complexity in language processing. Prominent examples of LLMs are OpenAI ChatGPT, Google Gemini, and Anthropic Claude. They find applications in intelligent educational tools, offering personalized tutoring and answering questions across various subjects. Moreover, LLMs have potential applications in scientific research by summarizing scientific discovery, extracting key information, and even deriving research plans.
 
+**The goal of this workshop is to bring together students, researchers, and faculty from across UVA to exchange ideas, foster collaboration, and explore innovative applications of LLMs in engineering, education, and scientific research.** We aim to create a vibrant community where participants can share their experiences, learn from each other, and discover new opportunities for leveraging LLMs in their respective domains.
 
 ## Dates and Location
 
-- Dates: Oct. 19 -- Oct. 20
-- Location: Thornton Hall A
-
+- Dates: Friday, Dec. 5, 2025
+- Location: [Newcomb Hall Theatre](https://events.studentaffairs.virginia.edu/newcomb-hall-theatre)
 
 ## Organizers
 
@@ -52,44 +39,38 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 
 **Contact the organizers**
 
-Email to uva-llm-ws2024@virginia.edu
+Email to yangfeng@virginia.edu
 
-
-## Student committee members
+<!-- ## Student committee members
 
 **Co-chairs of lightning talks**
 
-- Afsara Benazir
-- Elizabeth Palmieri
+- TBD
+- TBD
 
 **Co-chairs of poster sessions**
 
-- Rongxiang Wang
-- Dane Williamson
+- TBD
+- TBD
 
 **Local organizing chairs**
 
-- Caroline Gihlstorf
-- Karolina Naranjo-Velasco
-- Yixuan Ren
-- Aidan San
+- TBD
+- TBD
+- TBD
+- TBD -->
   
 ## Acknowledgment
 
 This workshop is supported by the UVA Engineering Research Interest Group (RIG) program.
 The workshop logistics are made possible via the support of the CS department.
 
-
 <p align="center">
-  <img style='width: 20%; object-fit: contain' src="uva-seas.jpg"/>
-  <img style='width: 20%; object-fit: contain' src="uva-cs.jpg"/>
+  <img style='width: 20%; object-fit: contain' src="figures/uva-seas.jpg"/>
+  <img style='width: 20%; object-fit: contain' src="figures/uva-cs.jpg"/>
 </p>
-
-
-
 
 <!-- ## Resources for LLMs -->
 
 <!-- TODO -->
-
 
