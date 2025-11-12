@@ -8,11 +8,11 @@ The workshop registration is open to anyone in UVA who is interested in LLM rese
 [Registration Link](https://forms.gle/PcyH2wosL9jvb2Nr7)
 
 
-<!-- ## [Schedule](./schedule.md)
+## [Schedule](./schedule.md)
 
 ## [Keynotes](./keynotes.md)
 
-## [Lightning talks and posters](./instructions.md) -->
+<!-- ## [Lightning talks and posters](./instructions.md) -->
 
 ## Goals
 
