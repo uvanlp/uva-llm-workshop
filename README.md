@@ -11,9 +11,7 @@
 
 ## How to Participate
 
-The workshop registration is open to anyone in UVA who is interested in LLM research and applications. Please register by **November 25**.
-
-- [Registration Link](https://forms.gle/PcyH2wosL9jvb2Nr7)
+The workshop registration is open to anyone in UVA who is interested in LLM research and applications. Please register by **November 25** via [this link](https://forms.gle/PcyH2wosL9jvb2Nr7).
 
 ## Schedule
 
