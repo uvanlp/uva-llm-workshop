@@ -1,6 +1,14 @@
 <!--- # llm-workshop-2025 ---> 
 <!--- img style='height: 100%; width: 100%; object-fit: contain' src="thornton-hall.jpeg"/ --->
 
+## Important Links
+
+- [Registration Link](https://forms.gle/PcyH2wosL9jvb2Nr7)
+- [Schedule](./schedule.md)
+- [Keynote](./keynotes.md)
+- [Lightning Talks]()
+- [Panel Discussions]()
+
 ## How to Participate
 
 The workshop registration is open to anyone in UVA who is interested in LLM research and applications. Please register by **November 25**.
