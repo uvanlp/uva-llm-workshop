@@ -1,5 +1,7 @@
 ## Keynote: Science of AI and AI for Science
 
+<img src="figures/noah-smith.jpg" width="200px" alt="Noah A. Smith">
+
 Speaker: [Noah A. Smith](https://nasmith.github.io/), Professor, University of Washington/Allen Institute for AI
 
 ### Abstract
