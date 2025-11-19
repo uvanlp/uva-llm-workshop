@@ -5,12 +5,18 @@
 
 The workshop registration is open to anyone in UVA who is interested in LLM research and applications. Please register by **November 25**.
 
-[Registration Link](https://forms.gle/PcyH2wosL9jvb2Nr7)
+- [Registration Link](https://forms.gle/PcyH2wosL9jvb2Nr7)
 
+## Schedule
 
-## [Schedule](./schedule.md)
+This workshop includes 
 
-## [Keynotes](./keynotes.md)
+- One [keynote](./keynotes.md) on AI and Science
+- A series of faculty lightning talks
+- Three panel discussion on (1) LLM Techniques and Impacts; (2) LLMs for Science and Engineering Research; and (2) LLMs in Education.
+
+The detailed information of the schedule can be found via [this link](./schedule.md).
+
 
 <!-- ## [Lightning talks and posters](./instructions.md) -->
 
