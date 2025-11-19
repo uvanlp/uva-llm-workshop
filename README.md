@@ -33,8 +33,8 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 
 ## Organizers
 
-- Yangfeng Ji (CS, co-chair)
-- Felix X. Lin (CS, co-chair)
+- Yangfeng Ji (CS)
+- Felix X. Lin (CS)
 - Prasanna Balachandran (MSE/MAE)
 - Meiqin Li (APMA)
 - Sara Riggs (SIE)
