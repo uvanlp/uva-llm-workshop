@@ -2,7 +2,10 @@
 
 <img src="figures/noah-smith.jpg" width="200px" alt="Noah A. Smith">
 
-Speaker: [Noah A. Smith](https://nasmith.github.io/), Professor, University of Washington/Allen Institute for AI
+Speaker: [Noah A. Smith](https://nasmith.github.io/)
+<br>Professor, Paul G. Allen School of Computer Science & Engineering, University of Washington
+<br>Vice Provost for Artificial Intelligence, University of Washington
+<br>Senior Director of NLP Research, Allen Institute for AI
 
 ### Abstract
 
