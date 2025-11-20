@@ -47,7 +47,7 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 
 **Contact the organizers**
 
-Email to uva-llms@virginia.edu
+Email to yangfeng@virginia.edu
 
 <!-- ## Student committee members
 
