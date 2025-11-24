@@ -82,3 +82,7 @@ The workshop logistics are made possible via the support of the CS department.
 
 <!-- TODO -->
 
+## Past Workshop
+
+- [UVA LLM Workshop 2024](2024/README.md)
+
