@@ -10,7 +10,7 @@
 | 12:00PM - 1:15PM  | Lunch + Poster Presentation                                            |                                                                                                                                                 |
 | 1:15PM - 2:15PM   | Panel Discussion: LLM Techniques and Impacts                           | Scott Acton (ECE)<br> Henry Kautz (CS)<br> Madhav Marathe (CS/Biocomplexity)<br> Nikolaos Sidiropoulos (ECE)<br> Host: Yangfeng Ji (CS)         |
 | 2:15PM - 2:30PM   | Coffee Break ☕                                                        |                                                                                                                                                 |
-| 2:20PM - 3:30PM   | Panel Discussion: AI in Science and Engineering                        | Camille Bilodeau (ChE)<br> Andres Clarens (CEE)<br> Host: Prasanna Balachandran (MSE)                                                           |
+| 2:20PM - 3:30PM   | Panel Discussion: AI in Science and Engineering                        | Camille Bilodeau (ChE)<br> Andres Clarens (CEE)<br> Gia-Wei Chern (Physics)<br> Jianxin Xie (SDS)<br> Phillip Taylor (ChE)<br> Host: Prasanna Balachandran (MSE)                                                           |
 | 3:45PM - 4:30PM   | Engineering Education with LLMs/AI: Opportunities and Ethical Pathways | Robbie Hott (CS)<br> Esther Tian (FYEC)<br> Host: Meiqin Li (APMA)                                                                              |
 
 
