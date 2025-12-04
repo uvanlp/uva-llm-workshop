@@ -6,6 +6,16 @@
 **Abstract**: Automation is reshaping creative work, but when applied without care, it can overlook how designers truly ideate, particularly their reliance on examples as sources of inspiration. My research reveals how designers use existing data visualization examples to generate and refine ideas, challenging assumptions in current tools and informing new methods for retrieval, exploration, and implementation. This talk shares these insights and outlines a future where human-AI collaboration supports more contextual, creative, and designer-driven data visualization.
 
 
+## Creating Critical Material Networks for Studying Supply Chain Disruptions
+
+**Speaker**: Mandy Wilson
+
+**Abstract**: Supply chain analysis for critical materials often employs top-down methods, tracing backward from finished products. These methods can lack visibility into intermediate dependencies due to proprietary manufacturing and opaque supplier networks. This presentation presents a bottom-up agentic AI approach for constructing a Material Evolution Knowledge Hypergraph (MEKH), an essential building block for supply chain networks that document the transformation of raw materials into advanced technological products.
+ 
+The approach uses the Material Processing Dependency Network Framework (MP-DNF), a multi-agent system in which specialized language models iteratively discover, classify, and validate materials and industrial processes. Multiple knowledge sources are integrated via the Model Context Protocol (MCP), including harmonized trade code databases, semantic reference caches, web searches, and structured encyclopedic sources. The resulting networks are represented as directed hypergraphs that capture the multi-input, multi-output
+nature of industrial processes.
+
+
 ## Promote A Safe Use of Vision-Language Models for Healthcare
 
 **Speaker**: Miaomiao Zhang (ECE/CS, SEAS)
