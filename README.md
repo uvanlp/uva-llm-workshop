@@ -1,6 +1,5 @@
 <!--- img style='height: 100%; width: 100%; object-fit: contain' src="thornton-hall.jpeg"/ --->
 
-# UVA LLM Workshop on Agentic and Generative AI for Science and Engineering
 
 ## Workshop Overview
 
