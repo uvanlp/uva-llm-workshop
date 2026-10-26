@@ -15,6 +15,16 @@ Whether you are developing core generative foundation models and agentic reasoni
 - Time: 9 AM - 4 PM
 - Location: [Newcomb Hall Theatre](https://studentaffairs.virginia.edu/subsite/event-management/student-activity-spaces/newcomb/newcomb-hall-theatre)
 
+## Workshop Schedule
+
+- Opening remarks and a keynote
+- Research talks
+- Lunch and poster presentations
+- Lightning talks
+- Roundtable discussion and closing remarks
+
+See the [full workshop schedule](./schedule.md) for details.
+
 ## Organizers
 
 - Yangfeng Ji (CS)
